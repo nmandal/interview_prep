@@ -1,3 +1,4 @@
+# O(N) time | O(N) space
 def caesar_cipher_encrypter(string, key):
     alpha = list('abcdefghijklmnopqrstuvwxyz')
     new_key = key % 26
