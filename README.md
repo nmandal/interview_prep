@@ -1,6 +1,6 @@
 # interview_prep
 
-### Arrays
+### Arrays - 3/6
 - Easy
     - [x] Two Number Sum
 - Medium
@@ -11,7 +11,7 @@
     - [] Subarray Sort
     - [] Largest Range
 
-### Binary Search Trees
+### Binary Search Trees - 1/4
 - Easy
     - [x] Find Closest Value In BST
 - Medium
@@ -19,7 +19,7 @@
     - [] Validate BST
     - [] BST Traversal
 
-### Binary Trees
+### Binary Trees - 0/3
 - Medium
     - [] Invert Binary Tree
 - Hard
@@ -27,7 +27,7 @@
 - Very Hard
     - [] Iterative In-order Traversal
     
-#### Dynamic Programming
+#### Dynamic Programming - 0/13
 - Medium
     - [] Maximum Subset Sum With No Adjacent Elements
     - [] Number Of Ways To Make Change
@@ -46,7 +46,7 @@
 - Extremely Hard
     - [] Longest Increasing Subsequence
 
-### Famous Algorithms
+### Famous Algorithms - 0/3
 - Medium
     - Kadane's Algorithm
 - Hard
@@ -54,7 +54,7 @@
 - Very Hard
     - Knuth-Morris-Pratt Algorithm
     
-### Graphs
+### Graphs - 1/4
 - Easy
     - [x] Depth-First Search
 - Medium
@@ -63,13 +63,13 @@
 - Hard
     - [] Boggle Board
     
-### Heaps
+### Heaps - 0/2
 - Medium
     - [] Min Heap Construction
 - Hard
     - [] Continuous Median
     
-### Linked Lists
+### Linked Lists - 1/4
 - Easy
     - [x] Linked List Construction
 - Medium
@@ -79,7 +79,7 @@
 - Very Hard
     - [] LRU Cache
     
-### Recursion
+### Recursion - 1/4
 - Easy
     - [x] Nth Fibonacci
 - Medium
@@ -88,7 +88,7 @@
 - Very Hard
     - [] Number of Binary Tree Topologies
     
-### Searching
+### Searching - 2/6
 - Easy
     - [x] Binary Search
     - [x] Find Three Largest Numbers
@@ -99,7 +99,7 @@
     - Search For Range
     - Quickselect
 
-### Sorting
+### Sorting - 0/6
 - Easy
     - [] Bubble Sort
     - [] Insertion Sort
@@ -110,12 +110,12 @@
 - Very Hard
     - [] Merge Sort
     
-### Stacks
+### Stacks - 0/2
 - Medium
     - [] Min Max Stack Construction
     - [] Balanced Brackets
 
-### Strings
+### Strings - 2/6
 - Easy
     - [x] Palindrome Check
     - [x] Caesar Cipher Encryptor
@@ -126,7 +126,7 @@
     - [] Underscorify Substring
     - [] Pattern Matcher
 
-### Tries
+### Tries - 0/2
 - Medium
     - [] Suffix Trie Construction
 - Hard
