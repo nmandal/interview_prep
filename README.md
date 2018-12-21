@@ -11,12 +11,12 @@
     - [ ] Subarray Sort
     - [ ] Largest Range
 
-### Binary Search Trees - 2/4
+### Binary Search Trees - 3/4
 - Easy
     - [x] Find Closest Value In BST
 - Medium
     - [x] BST Construction
-    - [ ] Validate BST
+    - [x] Validate BST
     - [ ] BST Traversal
 
 ### Binary Trees - 0/3
@@ -69,11 +69,11 @@
 - Hard
     - [ ] Continuous Median
     
-### Linked Lists - 1/4
+### Linked Lists - 2/4
 - Easy
     - [x] Linked List Construction
 - Medium
-    - [ ] Remove Kth Node From End
+    - [x] Remove Kth Node From End
 - Hard
     - [ ] Find Loop
 - Very Hard
