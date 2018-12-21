@@ -54,11 +54,11 @@
 - Very Hard
     - [ ] Knuth-Morris-Pratt Algorithm
     
-### Graphs - 1/4
+### Graphs - 2/4
 - Easy
     - [x] Depth-First Search
 - Medium
-    - [ ] Breadth-First Search
+    - [x] Breadth-First Search
     - [ ] River Sizes
 - Hard
     - [ ] Boggle Board
