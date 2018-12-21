@@ -27,10 +27,10 @@
 - Very Hard
     - [ ] Iterative In-order Traversal
     
-### Dynamic Programming - 1/13
+### Dynamic Programming - 2/13
 - Medium
     - [x] Maximum Subset Sum With No Adjacent Elements
-    - [ ] Number Of Ways To Make Change
+    - [x] Number Of Ways To Make Change
     - [ ] Min Number Of Coins For Change
     - [ ] Levenshtein Distance
 - Hard
