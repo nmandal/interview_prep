@@ -126,8 +126,8 @@
     - [ ] Underscorify Substring
     - [ ] Pattern Matcher
 
-### Tries - 0/2
+### Tries - 1/2
 - Medium
-    - [ ] Suffix Trie Construction
+    - [x] Suffix Trie Construction
 - Hard
     - [ ] Multi String Search
