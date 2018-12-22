@@ -11,13 +11,13 @@
     - [ ] Subarray Sort
     - [ ] Largest Range
 
-### Binary Search Trees - 3/4
+### Binary Search Trees - 4/4
 - Easy
     - [x] Find Closest Value In BST
 - Medium
     - [x] BST Construction
     - [x] Validate BST
-    - [ ] BST Traversal
+    - [x] BST Traversal
 
 ### Binary Trees - 0/3
 - Medium
