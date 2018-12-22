@@ -110,9 +110,9 @@
 - Very Hard
     - [ ] Merge Sort
     
-### Stacks - 1/2
+### Stacks - 2/2
 - Medium
-    - [ ] Min Max Stack Construction
+    - [x] Min Max Stack Construction
     - [x] Balanced Brackets
 
 ### Strings - 2/6
