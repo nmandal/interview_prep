@@ -46,9 +46,9 @@
 - Extremely Hard
     - [ ] Longest Increasing Subsequence
 
-### Famous Algorithms - 0/3
+### Famous Algorithms - 1/3
 - Medium
-    - [ ] Kadane's Algorithm
+    - [x] Kadane's Algorithm
 - Hard
     - [ ] Topological Sort
 - Very Hard
