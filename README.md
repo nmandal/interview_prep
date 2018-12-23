@@ -99,13 +99,13 @@
     - [ ] Search For Range
     - [ ] Quickselect
 
-### Sorting - 0/6
+### Sorting - 1/6
 - Easy
     - [ ] Bubble Sort
     - [ ] Insertion Sort
     - [ ] Selection Sort
 - Hard
-    - [ ] Quick Sort
+    - [x] Quick Sort
     - [ ] Heap Sort
 - Very Hard
     - [ ] Merge Sort
