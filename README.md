@@ -88,12 +88,12 @@
 - Very Hard
     - [ ] Number of Binary Tree Topologies
     
-### Searching - 2/6
+### Searching - 3/6
 - Easy
     - [x] Binary Search
     - [x] Find Three Largest Numbers
 - Medium
-    - [ ] Search In Sorted Matrix
+    - [x] Search In Sorted Matrix
 - Hard
     - [ ] Shifted Binary Search
     - [ ] Search For Range
