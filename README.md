@@ -79,12 +79,12 @@
 - Very Hard
     - [ ] LRU Cache
     
-### Recursion - 2/4
+### Recursion - 3/4
 - Easy
     - [x] Nth Fibonacci
 - Medium
     - [x] Permutations
-    - [ ] Powerset
+    - [x] Powerset
 - Very Hard
     - [ ] Number of Binary Tree Topologies
     
