@@ -63,9 +63,9 @@
 - Hard
     - [ ] Boggle Board
     
-### Heaps - 0/2
+### Heaps - 1/2
 - Medium
-    - [ ] Min Heap Construction
+    - [x] Min Heap Construction
 - Hard
     - [ ] Continuous Median
     
