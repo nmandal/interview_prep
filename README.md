@@ -19,9 +19,9 @@
     - [x] Validate BST
     - [x] BST Traversal
 
-### Binary Trees - 0/3
+### Binary Trees - 1/3
 - Medium
-    - [ ] Invert Binary Tree
+    - [x] Invert Binary Tree
 - Hard
     - [ ] Max Path Sum In Binary Tree
 - Very Hard
