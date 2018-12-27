@@ -69,6 +69,10 @@
 - Hard
     - [ ] Continuous Median
     
+### Leetcode 
+- Easy
+    - [x] First Unique Character In String
+    
 ### Linked Lists - 2/4
 - Easy
     - [x] Linked List Construction
