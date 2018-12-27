@@ -27,7 +27,7 @@
 - Very Hard
     - [ ] Iterative In-order Traversal
     
-### Dynamic Programming - 5/13
+### Dynamic Programming - 6/13
 - Medium
     - [x] Maximum Subset Sum With No Adjacent Elements
     - [x] Number Of Ways To Make Change
@@ -38,7 +38,7 @@
     - [ ] Longest Common Subsequence
     - [ ] Min Number Of Jumps
     - [ ] Water Area
-    - [ ] Knapsack Problem
+    - [x] Knapsack Problem
     - [ ] Disk Stacking
 - Very Hard
     - [ ] Max Profit With K Transactions
