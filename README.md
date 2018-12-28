@@ -1,13 +1,13 @@
 # interview_prep
 
-### Arrays - 5/6
+### Arrays - 6/6
 - Easy
     - [x] Two Number Sum
 - Medium
     - [x] Three Number Sum
     - [x] Smallest Difference
 - Hard
-    - [ ] Four Number Sum
+    - [x] Four Number Sum
     - [x] Subarray Sort
     - [x] Largest Range
 
