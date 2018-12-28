@@ -73,13 +73,13 @@
 - Easy
     - [x] 387. First Unique Character In String
     
-### Linked Lists - 3/4
+### Linked Lists - 4/4
 - Easy
     - [x] Linked List Construction
 - Medium
     - [x] Remove Kth Node From End
 - Hard
-    - [ ] Find Loop
+    - [x] Find Loop
 - Very Hard
     - [x] LRU Cache
     
