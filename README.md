@@ -71,9 +71,9 @@
     
 ### Leetcode 
 - Easy
-    - [x] First Unique Character In String
+    - [x] 387. First Unique Character In String
     
-### Linked Lists - 2/4
+### Linked Lists - 3/4
 - Easy
     - [x] Linked List Construction
 - Medium
@@ -81,7 +81,7 @@
 - Hard
     - [ ] Find Loop
 - Very Hard
-    - [ ] LRU Cache
+    - [x] LRU Cache
     
 ### Recursion - 3/4
 - Easy
