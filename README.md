@@ -1,6 +1,6 @@
 # interview_prep
 
-### Arrays - 4/6
+### Arrays - 5/6
 - Easy
     - [x] Two Number Sum
 - Medium
@@ -8,7 +8,7 @@
     - [x] Smallest Difference
 - Hard
     - [ ] Four Number Sum
-    - [ ] Subarray Sort
+    - [x] Subarray Sort
     - [x] Largest Range
 
 ### Binary Search Trees - 4/4
