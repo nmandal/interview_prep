@@ -75,6 +75,7 @@
     - [x] 929. Unique Email Addresses
 - Medium
     - [x] 5. Longest Palindromic Substring
+    - [x] 54. Spiral Matrix
     - [x] 56. Merge Intervals
     - [x] 252. Meeting Rooms II
     
