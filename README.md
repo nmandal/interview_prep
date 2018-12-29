@@ -72,7 +72,9 @@
 ### Leetcode 
 - Easy
     - [x] 387. First Unique Character In String
+    - [x] 929. Unique Email Addresses
 - Medium
+    - [x] 5. Longest Palindromic Substring
     - [x] 56. Merge Intervals
     
 ### Linked Lists - 4/4
