@@ -72,6 +72,8 @@
 ### Leetcode 
 - Easy
     - [x] 387. First Unique Character In String
+- Medium
+    - [x] 56. Merge Intervals
     
 ### Linked Lists - 4/4
 - Easy
