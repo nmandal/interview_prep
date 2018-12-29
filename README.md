@@ -76,6 +76,7 @@
 - Medium
     - [x] 5. Longest Palindromic Substring
     - [x] 56. Merge Intervals
+    - [x] 252. Meeting Rooms II
     
 ### Linked Lists - 4/4
 - Easy
