@@ -46,11 +46,11 @@
 - Extremely Hard
     - [ ] Longest Increasing Subsequence
 
-### Famous Algorithms - 2/3
+### Famous Algorithms - 3/3
 - Medium
     - [x] Kadane's Algorithm
 - Hard
-    - [ ] Topological Sort
+    - [x] Topological Sort
 - Very Hard
     - [x] Knuth-Morris-Pratt Algorithm
     
