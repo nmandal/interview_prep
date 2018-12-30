@@ -79,6 +79,8 @@
     - [x] 56. Merge Intervals
     - [x] 173. Binary Search Tree Iterator
     - [x] 252. Meeting Rooms II
+- Hard
+    - [x] 42. Trapping Rain Water
     
 ### Linked Lists - 4/4
 - Easy
