@@ -102,14 +102,14 @@
 - Very Hard
     - [ ] Number of Binary Tree Topologies
     
-### Searching - 3/6
+### Searching - 4/6
 - Easy
     - [x] Binary Search
     - [x] Find Three Largest Numbers
 - Medium
     - [x] Search In Sorted Matrix
 - Hard
-    - [ ] Shifted Binary Search
+    - [x] Shifted Binary Search
     - [ ] Search For Range
     - [ ] Quickselect
 
