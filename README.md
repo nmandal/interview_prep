@@ -19,13 +19,13 @@
     - [x] Validate BST
     - [x] BST Traversal
 
-### Binary Trees - 1/3
+### Binary Trees - 2/3
 - Medium
     - [x] Invert Binary Tree
 - Hard
     - [ ] Max Path Sum In Binary Tree
 - Very Hard
-    - [ ] Iterative In-order Traversal
+    - [x] Iterative In-order Traversal
     
 ### Dynamic Programming - 7/13
 - Medium
