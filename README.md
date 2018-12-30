@@ -69,7 +69,7 @@
 - Hard
     - [ ] Continuous Median
     
-### Leetcode 
+### Leetcode - 9/9
 - Easy
     - [x] 387. First Unique Character In String
     - [x] 929. Unique Email Addresses
@@ -93,14 +93,14 @@
 - Very Hard
     - [x] LRU Cache
     
-### Recursion - 3/4
+### Recursion - 4/4
 - Easy
     - [x] Nth Fibonacci
 - Medium
     - [x] Permutations
     - [x] Powerset
 - Very Hard
-    - [ ] Number of Binary Tree Topologies
+    - [x] Number of Binary Tree Topologies
     
 ### Searching - 4/6
 - Easy
