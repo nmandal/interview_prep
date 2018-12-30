@@ -75,6 +75,7 @@
     - [x] 929. Unique Email Addresses
 - Medium
     - [x] 5. Longest Palindromic Substring
+    - [x] 50. Pow(x, n)
     - [x] 54. Spiral Matrix
     - [x] 56. Merge Intervals
     - [x] 173. Binary Search Tree Iterator
