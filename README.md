@@ -102,7 +102,7 @@
 - Very Hard
     - [x] Number of Binary Tree Topologies
     
-### Searching - 4/6
+### Searching - 5/6
 - Easy
     - [x] Binary Search
     - [x] Find Three Largest Numbers
@@ -110,7 +110,7 @@
     - [x] Search In Sorted Matrix
 - Hard
     - [x] Shifted Binary Search
-    - [ ] Search For Range
+    - [x] Search For Range
     - [ ] Quickselect
 
 ### Sorting - 1/6
