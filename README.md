@@ -27,7 +27,7 @@
 - Very Hard
     - [x] Iterative In-order Traversal
     
-### Dynamic Programming - 7/13
+### Dynamic Programming - 8/13
 - Medium
     - [x] Maximum Subset Sum With No Adjacent Elements
     - [x] Number Of Ways To Make Change
@@ -35,7 +35,7 @@
     - [x] Levenshtein Distance
 - Hard
     - [x] Max Sum Increasing Subsequence
-    - [ ] Longest Common Subsequence
+    - [x] Longest Common Subsequence
     - [x] Min Number Of Jumps
     - [ ] Water Area
     - [x] Knapsack Problem
@@ -115,9 +115,9 @@
 
 ### Sorting - 1/6
 - Easy
-    - [ ] Bubble Sort
-    - [ ] Insertion Sort
-    - [ ] Selection Sort
+    - [x] Bubble Sort
+    - [x] Insertion Sort
+    - [x] Selection Sort
 - Hard
     - [x] Quick Sort
     - [ ] Heap Sort
