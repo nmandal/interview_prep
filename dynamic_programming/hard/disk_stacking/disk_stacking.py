@@ -22,6 +22,6 @@ def is_valid_dimensions(bottom, top):
 def build_seq(disks, seqs, max_height_idx):
     seq = []
     while curr_idx is not None:
-        seq.append(arr[curr_idx])
-        curr_idx = seqs[curr_idx]
+        seq.append(arr[max_height_idx])
+        curr_idx = seqs[max_height_idx]
     return list(reversed(seq))
