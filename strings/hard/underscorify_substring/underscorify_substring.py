@@ -47,5 +47,5 @@ def underscorify(string, locs):
     if locs_idx < len(locs):
         final_chars.append('_')
     elif str_idx < len(string):
-        final_chars.append(string[str_idx])
+        final_chars.append(string[str_idx:])
     return "".join(final_chars)
