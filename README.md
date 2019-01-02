@@ -129,7 +129,7 @@
     - [x] Min Max Stack Construction
     - [x] Balanced Brackets
 
-### Strings - 4/6
+### Strings - 5/6
 - Easy
     - [x] Palindrome Check
     - [x] Caesar Cipher Encryptor
@@ -137,7 +137,7 @@
     - [x] Longest Palindromic Substring
 - Hard
     - [x] Longest Substring Without Duplication
-    - [ ] Underscorify Substring
+    - [x] Underscorify Substring
     - [ ] Pattern Matcher
 
 ### Tries - 1/2
