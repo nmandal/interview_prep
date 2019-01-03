@@ -45,6 +45,10 @@
     - [ ] Palindrome Partitioning Min Cuts
 - Extremely Hard
     - [ ] Longest Increasing Subsequence
+    
+### Elements of Programming Interviews
+- Primitive Types
+    - [x] 4.8 - Reverse Digits
 
 ### Famous Algorithms - 3/3
 - Medium
