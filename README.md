@@ -27,7 +27,7 @@
 - Very Hard
     - [x] Iterative In-order Traversal
     
-### Dynamic Programming - 10/13
+### Dynamic Programming - 11/13
 - Medium
     - [x] Maximum Subset Sum With No Adjacent Elements
     - [x] Number Of Ways To Make Change
@@ -41,7 +41,7 @@
     - [x] Knapsack Problem
     - [x] Disk Stacking
 - Very Hard
-    - [ ] Max Profit With K Transactions
+    - [x] Max Profit With K Transactions
     - [ ] Palindrome Partitioning Min Cuts
 - Extremely Hard
     - [ ] Longest Increasing Subsequence
