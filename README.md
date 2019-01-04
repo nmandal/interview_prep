@@ -158,7 +158,7 @@
     - [x] Search For Range
     - [x] Quickselect
 
-### Sorting - 4/6
+### Sorting - 5/6
 - Easy
     - [x] Bubble Sort
     - [x] Insertion Sort
@@ -167,7 +167,7 @@
     - [x] Quick Sort
     - [ ] Heap Sort
 - Very Hard
-    - [ ] Merge Sort
+    - [x] Merge Sort
     
 ### Stacks - 2/2
 - Medium
