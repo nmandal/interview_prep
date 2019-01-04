@@ -158,14 +158,14 @@
     - [x] Search For Range
     - [x] Quickselect
 
-### Sorting - 5/6
+### Sorting - 6/6
 - Easy
     - [x] Bubble Sort
     - [x] Insertion Sort
     - [x] Selection Sort
 - Hard
     - [x] Quick Sort
-    - [ ] Heap Sort
+    - [x] Heap Sort
 - Very Hard
     - [x] Merge Sort
     
