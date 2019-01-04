@@ -46,9 +46,50 @@
 - Extremely Hard
     - [ ] Longest Increasing Subsequence
     
-### Elements of Programming Interviews
+### Elements of Programming Interviews - 2/26
 - Primitive Types
     - [x] 4.8 - Reverse Digits
+- Arrays
+    - [x] 5.2 - Increment an Arbirtrary-Precision Integer
+    - [ ] 5.17 - The Soduku Checker Problem
+- Strings
+    - [ ] 6.5 - Test Palindromicity
+    - [ ] 6.6 - Reverse All The Words In A Sentence
+- Linked Lists
+    - [ ] 7.4 - Test for overlapping lists - lists are cycle free
+    - [ ] 7.7 - Remove the kth last element from list
+- Stacks and Queues
+    - [ ] 8.2 - Evaluate RPN expressions
+    - [ ] 8.8 - Implement a circular queue
+- Binary Trees
+    - [ ] 9.2 - Test if a binary tree is symmetric
+    - [ ] 9.12 - Reconstruct a binary tree from traversal data
+- Heaps
+    - [ ] 10.2 - Sort an increasing-decreasing array 
+- Searching
+    - [ ] 11.3 - Search a cyclically sorted array
+    - [ ] 11.9 - FInd the missing IP address
+- Hash Tables
+    - [ ] 12.1 - Test for palindrome permutations
+    - [ ] 12.6 - Find the nearest repreated entries in an array
+- Sorting
+    - [ ] 13.5 - Render a calendar
+- Binary Search Trees
+    - [ ] 14.4 - Compute the LCA in a BST
+    - [ ] 14.8 - The most visited pages problem
+- Recursion
+    - [ ] 15.3 - Generate permutations
+- Dynamic Programming
+    - [ ] 16.3 - Count the number of ways to traverse a 2D array
+    - [ ] 16.6 - The knapsack problem
+- Greedy Algorithms and Invariants
+    - [ ] 17.5 - The 3-sum problem
+- Graphs
+    - [ ] 18.2 - Paint a Boolean matrix
+- Parallel Computing
+    - [ ] 19.8 - Implement a Timer class
+- Design Problems
+    - [ ] 20.16 - Design a recommendation system
 
 ### Famous Algorithms - 3/3
 - Medium
