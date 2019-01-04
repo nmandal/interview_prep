@@ -108,11 +108,11 @@
 - Hard
     - [x] Boggle Board
     
-### Heaps - 1/2
+### Heaps - 2/2
 - Medium
     - [x] Min Heap Construction
 - Hard
-    - [ ] Continuous Median
+    - [x] Continuous Median
     
 ### Leetcode - 9/9
 - Easy
