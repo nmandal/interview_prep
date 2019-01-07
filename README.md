@@ -71,6 +71,7 @@
     - [ ] 11.9 - FInd the missing IP address
 - Hash Tables
     - [x] 12.1 - Test for palindrome permutations
+    - [x] 12.2 - Is anonymous letter constructible?
     - [x] 12.6 - Find the nearest repreated entries in an array
 - Sorting
     - [ ] 13.5 - Render a calendar
