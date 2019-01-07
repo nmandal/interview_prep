@@ -56,7 +56,8 @@
     - [x] 6.5 - Test Palindromicity
     - [x] 6.6 - Reverse All The Words In A Sentence
 - Linked Lists
-    - [ ] 7.4 - Test for overlapping lists - lists are cycle free
+    - [x] 7.4 - Test for overlapping lists - lists are cycle free
+    - [ ] 7.5 - Test for overlapping lists - lists may have cycles
     - [ ] 7.7 - Remove the kth last element from list
 - Stacks and Queues
     - [ ] 8.2 - Evaluate RPN expressions
