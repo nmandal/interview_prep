@@ -46,7 +46,7 @@
 - Extremely Hard
     - [x] Longest Increasing Subsequence
     
-### Elements of Programming Interviews - 2/26
+### Elements of Programming Interviews - 6/26
 - Primitive Types
     - [x] 4.8 - Reverse Digits
 - Arrays
@@ -57,8 +57,7 @@
     - [x] 6.6 - Reverse All The Words In A Sentence
 - Linked Lists
     - [x] 7.4 - Test for overlapping lists - lists are cycle free
-    - [ ] 7.5 - Test for overlapping lists - lists may have cycles
-    - [ ] 7.7 - Remove the kth last element from list
+    - [x] 7.7 - Remove the kth last element from list
 - Stacks and Queues
     - [ ] 8.2 - Evaluate RPN expressions
     - [ ] 8.8 - Implement a circular queue
