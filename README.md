@@ -60,7 +60,7 @@
     - [x] 7.7 - Remove the kth last element from list
 - Stacks and Queues
     - [x] 8.2 - Evaluate RPN expressions
-    - [ ] 8.8 - Implement a circular queue
+    - [x] 8.8 - Implement a circular queue
 - Binary Trees
     - [ ] 9.2 - Test if a binary tree is symmetric
     - [ ] 9.12 - Reconstruct a binary tree from traversal data
