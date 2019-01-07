@@ -46,7 +46,7 @@
 - Extremely Hard
     - [x] Longest Increasing Subsequence
     
-### Elements of Programming Interviews - 14/26
+### Elements of Programming Interviews - 15/26
 - Primitive Types
     - [x] 4.8 - Reverse Digits
 - Arrays
@@ -84,7 +84,7 @@
     - [x] 16.3 - Count the number of ways to traverse a 2D array
     - [ ] 16.6 - The knapsack problem
 - Greedy Algorithms and Invariants
-    - [ ] 17.5 - The 3-sum problem
+    - [x] 17.4 - The 3-sum problem
 - Graphs
     - [ ] 18.2 - Paint a Boolean matrix
 - Parallel Computing
