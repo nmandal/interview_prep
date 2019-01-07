@@ -86,7 +86,7 @@
 - Greedy Algorithms and Invariants
     - [x] 17.4 - The 3-sum problem
 - Graphs
-    - [ ] 18.2 - Paint a Boolean matrix
+    - [x] 18.2 - Paint a Boolean matrix
 - Parallel Computing
     - [ ] 19.8 - Implement a Timer class
 - Design Problems
