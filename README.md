@@ -46,7 +46,7 @@
 - Extremely Hard
     - [x] Longest Increasing Subsequence
     
-### Elements of Programming Interviews - 11/26
+### Elements of Programming Interviews - 14/26
 - Primitive Types
     - [x] 4.8 - Reverse Digits
 - Arrays
@@ -79,7 +79,7 @@
     - [ ] 14.4 - Compute the LCA in a BST
     - [ ] 14.8 - The most visited pages problem
 - Recursion
-    - [ ] 15.3 - Generate permutations
+    - [x] 15.3 - Generate permutations
 - Dynamic Programming
     - [x] 16.3 - Count the number of ways to traverse a 2D array
     - [ ] 16.6 - The knapsack problem
