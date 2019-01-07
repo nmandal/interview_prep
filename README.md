@@ -46,7 +46,7 @@
 - Extremely Hard
     - [x] Longest Increasing Subsequence
     
-### Elements of Programming Interviews - 10/26
+### Elements of Programming Interviews - 11/26
 - Primitive Types
     - [x] 4.8 - Reverse Digits
 - Arrays
@@ -70,7 +70,7 @@
     - [ ] 11.3 - Search a cyclically sorted array
     - [ ] 11.9 - FInd the missing IP address
 - Hash Tables
-    - [ ] 12.1 - Test for palindrome permutations
+    - [x] 12.1 - Test for palindrome permutations
     - [x] 12.6 - Find the nearest repreated entries in an array
 - Sorting
     - [ ] 13.5 - Render a calendar
