@@ -59,7 +59,7 @@
     - [x] 7.4 - Test for overlapping lists - lists are cycle free
     - [x] 7.7 - Remove the kth last element from list
 - Stacks and Queues
-    - [ ] 8.2 - Evaluate RPN expressions
+    - [x] 8.2 - Evaluate RPN expressions
     - [ ] 8.8 - Implement a circular queue
 - Binary Trees
     - [ ] 9.2 - Test if a binary tree is symmetric
