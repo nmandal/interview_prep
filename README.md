@@ -114,10 +114,11 @@
 - Hard
     - [x] Continuous Median
     
-### Leetcode - 9/9
+### Leetcode - 10/10
 - Easy
     - [x] 387. First Unique Character In String
     - [x] 929. Unique Email Addresses
+    - [x] 206. Reverse Singly Linked List
 - Medium
     - [x] 5. Longest Palindromic Substring
     - [x] 50. Pow(x, n)
