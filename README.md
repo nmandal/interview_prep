@@ -71,7 +71,7 @@
     - [ ] 11.9 - FInd the missing IP address
 - Hash Tables
     - [ ] 12.1 - Test for palindrome permutations
-    - [ ] 12.6 - Find the nearest repreated entries in an array
+    - [x] 12.6 - Find the nearest repreated entries in an array
 - Sorting
     - [ ] 13.5 - Render a calendar
 - Binary Search Trees
