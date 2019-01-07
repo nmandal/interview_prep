@@ -46,7 +46,7 @@
 - Extremely Hard
     - [x] Longest Increasing Subsequence
     
-### Elements of Programming Interviews - 9/26
+### Elements of Programming Interviews - 10/26
 - Primitive Types
     - [x] 4.8 - Reverse Digits
 - Arrays
@@ -80,7 +80,7 @@
 - Recursion
     - [ ] 15.3 - Generate permutations
 - Dynamic Programming
-    - [ ] 16.3 - Count the number of ways to traverse a 2D array
+    - [x] 16.3 - Count the number of ways to traverse a 2D array
     - [ ] 16.6 - The knapsack problem
 - Greedy Algorithms and Invariants
     - [ ] 17.5 - The 3-sum problem
