@@ -46,7 +46,7 @@
 - Extremely Hard
     - [x] Longest Increasing Subsequence
     
-### Elements of Programming Interviews - 6/26
+### Elements of Programming Interviews - 9/26
 - Primitive Types
     - [x] 4.8 - Reverse Digits
 - Arrays
@@ -62,7 +62,7 @@
     - [x] 8.2 - Evaluate RPN expressions
     - [x] 8.8 - Implement a circular queue
 - Binary Trees
-    - [ ] 9.2 - Test if a binary tree is symmetric
+    - [x] 9.2 - Test if a binary tree is symmetric
     - [ ] 9.12 - Reconstruct a binary tree from traversal data
 - Heaps
     - [ ] 10.2 - Sort an increasing-decreasing array 
