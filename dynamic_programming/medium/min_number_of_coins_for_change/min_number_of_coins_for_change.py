@@ -5,5 +5,5 @@ def min_number_of_coins_for_change(n, denoms):
     for denom in denoms:
         for amount in range(len(num_of_coins)):
             if denom <= amount:
-                num_of_coins[amount] = min(num_of_coins[amount], num_of_coins[amount-denom])
+                num_of_coins[amount] = min(num_of_coins[amount], 1 + num_of_coins[amount-denom])
             return num_of_coins[n] if num_of_coins[n] != float('inf') else -1

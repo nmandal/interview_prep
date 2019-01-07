@@ -27,7 +27,7 @@
 - Very Hard
     - [x] Iterative In-order Traversal
     
-### Dynamic Programming - 12/13
+### Dynamic Programming - 13/13
 - Medium
     - [x] Maximum Subset Sum With No Adjacent Elements
     - [x] Number Of Ways To Make Change
@@ -44,7 +44,7 @@
     - [x] Max Profit With K Transactions
     - [x] Palindrome Partitioning Min Cuts
 - Extremely Hard
-    - [ ] Longest Increasing Subsequence
+    - [x] Longest Increasing Subsequence
     
 ### Elements of Programming Interviews - 2/26
 - Primitive Types
@@ -53,8 +53,8 @@
     - [x] 5.2 - Increment an Arbirtrary-Precision Integer
     - [ ] 5.17 - The Soduku Checker Problem
 - Strings
-    - [ ] 6.5 - Test Palindromicity
-    - [ ] 6.6 - Reverse All The Words In A Sentence
+    - [x] 6.5 - Test Palindromicity
+    - [x] 6.6 - Reverse All The Words In A Sentence
 - Linked Lists
     - [ ] 7.4 - Test for overlapping lists - lists are cycle free
     - [ ] 7.7 - Remove the kth last element from list
