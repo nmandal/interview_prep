@@ -46,7 +46,7 @@
 - Extremely Hard
     - [x] Longest Increasing Subsequence
     
-### Elements of Programming Interviews - 15/26
+### Elements of Programming Interviews - 16/26
 - Primitive Types
     - [x] 4.8 - Reverse Digits
 - Arrays
@@ -121,6 +121,7 @@
     - [x] 929. Unique Email Addresses
     - [x] 206. Reverse Singly Linked List
     - [x] 121. Best Time to Buy and Sell Stock
+    - [x] 217. Contains Duplicates
 - Medium
     - [x] 5. Longest Palindromic Substring
     - [x] 50. Pow(x, n)
