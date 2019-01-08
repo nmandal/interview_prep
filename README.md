@@ -81,6 +81,7 @@
 - Recursion
     - [x] 15.3 - Generate permutations
 - Dynamic Programming
+    - [x] 16.1 - Count the number of score combinations
     - [x] 16.3 - Count the number of ways to traverse a 2D array
     - [ ] 16.6 - The knapsack problem
 - Greedy Algorithms and Invariants
