@@ -100,7 +100,9 @@
 - Hard
     - [x] Continuous Median
     
-### Interview Cake - 1/1
+### Interview Cake - 2/2
+- Array and String manipulation
+    - [x] Reverse String in Place
 - Greedy Algorithms
     - [x] Product of All Other Numbers
     
